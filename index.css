@@ -44,6 +44,12 @@ body {
 	cursor: pointer;
 }
 
+.bottom-link,
+.bottom-link:hover {
+	color: inherit;
+	text-decoration: none
+}
+
 @media only screen and (max-width: 768px) {
 	.newsletter > img {
 		width: 100%;
